@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Puzzle bajajraj</string>
+    <string name="full_spartan_image">TODO</string>
+    <string name="button_name">Start Puzzle</string>
+    <string name="textWelcome">Welcome to Raj\'s Puzzle</string>
+    <string name="buttonStart">Start Puzzle</string>
+    <string name="todo">sparty_image</string>
+    <string name="sparty_image">Picture of the solved Image</string>
+    <string name="hurrah">Hurrah!!!</string>
+    <string name="completed_puzzle">You have completed the puzzle!</string>
+    <string name="shuffle">Shuffle</string>
+</resources>
